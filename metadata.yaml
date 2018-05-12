@@ -1,0 +1,30 @@
+_repo: Armageddon-And-After_17158
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Courtney, W. L. (William Leonard)
+    alias: Courtney, William Leonard
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '7185'
+    url: http://www.gutenberg.org/2009/agents/7185
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17158'
+  lccn: '15001770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Causes'
+- !lcc 'D501'
+- !lcsh 'Europe -- Politics and government'
+title: Armageddon—And After
+url: http://www.gutenberg.org/ebooks/17158
